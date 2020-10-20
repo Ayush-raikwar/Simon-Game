@@ -47,7 +47,7 @@ function checkAnswer(currentLevel){
       var audio = new Audio("https://iil.ililllliliillilliliil.li/partial/0s_to_4s_Mario_Dead_%7C_Sound_Effects.mp3");
       audio.play();
       $(".container").append("<img class='gif'/>");
-      $(".gif").attr("src", "https://media1.tenor.com/images/dbe9188a803e3d3c7d93ecfc51f88942/tenor.gif?itemid=17332070");
+      $(".gif").attr("src", "images/ezgif.com-gif-maker.gif");
 
 
       $("body").addClass("game-over");
