@@ -44,7 +44,7 @@ function checkAnswer(currentLevel){
 
       console.log("wrong");
 
-      var audio = new Audio("https://iil.ililllliliillilliliil.li/partial/0s_to_4s_Mario_Dead_%7C_Sound_Effects.mp3");
+      var audio = new Audio("https://www.myinstants.com/media/sounds/super-mario-death-sound-sound-effect.mp3");
       audio.play();
       $(".container").append("<img class='gif'/>");
       $(".gif").attr("src", "images/ezgif.com-gif-maker.gif");
